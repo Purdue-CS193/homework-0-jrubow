@@ -4,6 +4,7 @@
 - being at purdue
 - learning github
 - being social
+- testing
 
 ## Welcome to GitHub Pages
 
